@@ -17,3 +17,4 @@ This project implements:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+Live Project deployed at: https://gtgbcs8fssrfelvxe8sjsa.streamlit.app/
